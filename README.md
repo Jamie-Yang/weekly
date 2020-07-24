@@ -13,6 +13,7 @@
 3. [移动前端开发和 Web 前端开发的区别是什么？ - 阿里技术](https://segmentfault.com/a/1190000022851790)
 4. [写给前端的算法进阶指南，我是如何两个月零基础刷 200 题](https://juejin.im/post/5f05087cf265da22d466f60f)
 5. [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
+6. [如何推动基础架构项目落地 - 小爝](https://juejin.im/post/5e6447e1f265da575f4e7df1)
 
 ### 工具
 
