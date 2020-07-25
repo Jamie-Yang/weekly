@@ -6,7 +6,7 @@
 
 > 2020 年 07 月 26 日
 
-### 文章
+### 分享
 
 1. [Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
 2. [前端通用模块在手淘业务中的实践 - 淘系技术](https://mp.weixin.qq.com/s/eLteYS3pYscSw-0BNJWtjg)
