@@ -4,12 +4,12 @@
 
 ## 第一期
 
-> 2020 年 07 月 26 日
+> 2020 年 07 月 25 日
 
 ### 分享
 
-1. [Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
-2. [前端通用模块在手淘业务中的实践 - 淘系技术](https://mp.weixin.qq.com/s/eLteYS3pYscSw-0BNJWtjg)
+1. [畅想 Serverless 新托管时代，2020 年迎来哪些新机会？- Alibaba F2E](https://mp.weixin.qq.com/s/2RcYlZYVLcwSfjf1f2_Jtg)
+2. [Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
 3. [Flutter vs React Native vs Native：深度性能比较](https://www.infoq.cn/article/uYiItcu0eATDul25ecXG)
 4. [移动前端开发和 Web 前端开发的区别是什么？ - 阿里技术](https://segmentfault.com/a/1190000022851790)
 5. [写给前端的算法进阶指南，我是如何两个月零基础刷 200 题](https://juejin.im/post/5f05087cf265da22d466f60f)
