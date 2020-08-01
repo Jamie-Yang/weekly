@@ -2,6 +2,23 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第二期
+
+> 2020 年 08 月 01 日
+
+### 分享
+
+1. [Micro Frontends](https://micro-frontends.org/)
+2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
+3. [async/await 优雅的错误处理方法](https://juejin.im/post/6844903767129718791)
+4. [如何高效迅速的进行 CodeReview](https://www.jianshu.com/p/e9f9aef9a0e9)
+5. [10 个打开了我新世界大门的 WebAPI](https://juejin.im/post/6844904193258602504)
+6. [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
+
+### 工具
+
+1. [Regulex - 正则表达式可视化工具](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>)
+
 ## 第一期
 
 > 2020 年 07 月 25 日
