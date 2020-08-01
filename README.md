@@ -8,7 +8,7 @@
 
 ### 分享
 
-1. [Micro Frontends](https://micro-frontends.org/)
+1. [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
 2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
 3. [async/await 优雅的错误处理方法](https://juejin.im/post/6844903767129718791)
 4. [如何高效迅速的进行 CodeReview](https://www.jianshu.com/p/e9f9aef9a0e9)
