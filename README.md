@@ -2,6 +2,25 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第三期
+
+> 2020 年 08 月 08 日
+
+### 分享
+
+1. [无线性能优化：Composite - 淘系前端团队](https://fed.taobao.org/blog/taofed/do71ct/performance-composite/)
+2. [浏览器层合成与页面渲染优化](https://juejin.im/post/6844903959425974280)
+3. [你不知道的浏览器页面渲染机制](https://juejin.im/post/6844903815758479374)
+4. [微前端的现状和趋势](https://segmentfault.com/a/1190000023365666)
+5. [反击爬虫，前端工程师的脑洞可以有多大？- IMWeb 前端技术团队](https://imweb.io/topic/595b7161d6ca6b4f0ac71f05)
+6. [4 Ways You Can “Level Up” As A Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/skill_pathway/4-ways-you-can-level-up-as-a-developer-17ol)
+7. [解读新一代 Web 性能体验和质量指标](https://juejin.im/post/6844904168591736846)
+
+### 工具
+
+1. [GoogleChrome/web-vitals-extension - Core Web Vitals 指标衡量插件](https://github.com/GoogleChrome/web-vitals-extension)
+2. [npmcharts - 图表对比 npm 包下载趋势](https://npmcharts.com/)
+
 ## 第二期
 
 > 2020 年 08 月 01 日
