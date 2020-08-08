@@ -18,7 +18,7 @@
 
 ### 工具
 
-1. [GoogleChrome/web-vitals-extension - Core Web Vitals 指标实时衡量插件](https://github.com/GoogleChrome/web-vitals-extension)
+1. [GoogleChrome/web-vitals-extension - Core Web Vitals 指标衡量插件](https://github.com/GoogleChrome/web-vitals-extension)
 2. [npmcharts - 图表对比 npm 包下载趋势](https://npmcharts.com/)
 
 ## 第二期
