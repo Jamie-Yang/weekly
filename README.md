@@ -11,10 +11,10 @@
 1. [React17 新特性：启发式更新算法](https://mp.weixin.qq.com/s/BEDwLJkEEI9bvD-1E5RRjQ)
 2. [前端组件设计原则](https://juejin.im/post/6844903767108747278)
 3. [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
-4. [吊打 JavaScript 之从原型到原型链](https://mp.weixin.qq.com/s/QQySwGWhjD0Hd72_U0nrRg)
-5. [深入理解 ES Modules (手绘示例)](https://www.zcfy.cc/article/es-modules-a-cartoon-deep-dive-mozilla-hacks-the-web-developer-blog)
-6. [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)
-7. [Tasks, microtasks, queues and schedules (可交互示例) - Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+4. [Tasks, microtasks, queues and schedules (可交互示例) - Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+5. [吊打 JavaScript 之从原型到原型链](https://mp.weixin.qq.com/s/QQySwGWhjD0Hd72_U0nrRg)
+6. [深入理解 ES Modules (手绘示例)](https://www.zcfy.cc/article/es-modules-a-cartoon-deep-dive-mozilla-hacks-the-web-developer-blog)
+7. [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)
 
 ### 工具
 
