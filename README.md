@@ -18,7 +18,7 @@
 
 ### 工具
 
-1. [AST Explorer - 支持多种语言的 AST 生成的在线工具](https://astexplorer.net/)
+1. [AST Explorer - 支持多种语言的在线 AST 生成工具](https://astexplorer.net/)
 
 ## 第三期
 
