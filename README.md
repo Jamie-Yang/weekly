@@ -2,6 +2,24 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第五期
+
+> 2020 年 08 月 29 日
+
+### 分享
+
+1. [TypeScript 4.0 正式发布！现在是开始使用它的最佳时机](https://mp.weixin.qq.com/s/hAGXH1MFjSFjqLpZyRHA3Q)
+2. [if 我是前端 Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/6844904001603895304)
+3. [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
+4. [为什么 Vue3.0 不再使用 defineProperty 实现数据监听？](https://www.infoq.cn/article/sPCMAcrdAZQfmLbGJeGr)
+5. [前端工程化概述 - 阿里云云栖号](https://juejin.im/post/6844903588553048077)
+6. [一文搞懂动态规划](https://juejin.im/post/6844904113889624077)
+
+### 工具
+
+1. [Code Spell Checker - VSC 代码英文变量名拼写检查插件](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+2. [Pure - Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
+
 ## 第四期
 
 > 2020 年 08 月 15 日
