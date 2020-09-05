@@ -8,13 +8,13 @@
 
 ### 分享
 
-1. [Hybrid App 离线包方案实践](https://juejin.im/post/6844904031773523976)
-2. [移动开发平台 mPaas 文档：离线包简介 - 蚂蚁金服](https://tech.antfin.com/docs/2/59594)
+1. [移动开发平台 mPaas 文档：离线包简介 - 蚂蚁金服](https://tech.antfin.com/docs/2/59594)
+2. [Hybrid App 离线包方案实践](https://juejin.im/post/6844904031773523976)
 3. [Webpack 打包太慢？来试试 Bundleless 吧！- Alibaba F2E](https://mp.weixin.qq.com/s/Wr9d6yrNWjrmP8_Sxbmzfw)
 4. [辛辛苦苦学会的 webpack dll 配置，可能已经过时了](https://juejin.im/post/6844903952140468232)
-5. []()
-6. []()
-7. []()
+5. [借助 Module Federation 让 webpack 提速十倍 - 云谦](https://mp.weixin.qq.com/s/3LxmReRXKe7b-UNLfIEKKA)
+6. [Vuex、Flux、Redux、Redux-saga、Dva、MobX](https://juejin.im/post/6844903742672748558)
+7. [Minimal React: getting started with the frontend library](https://2ality.com/2020/08/minimal-react.html)
 
 ### 工具
 
