@@ -2,6 +2,25 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第六期
+
+> 2020 年 09 月 05 日
+
+### 分享
+
+1. [Hybrid App 离线包方案实践](https://juejin.im/post/6844904031773523976)
+2. [移动开发平台 mPaas 文档：离线包简介 - 蚂蚁金服](https://tech.antfin.com/docs/2/59594)
+3. [Webpack 打包太慢？来试试 Bundleless 吧！- Alibaba F2E](https://mp.weixin.qq.com/s/Wr9d6yrNWjrmP8_Sxbmzfw)
+4. [辛辛苦苦学会的 webpack dll 配置，可能已经过时了](https://juejin.im/post/6844903952140468232)
+5. []()
+6. []()
+7. []()
+
+### 工具
+
+1. [Smart TOC - Chrome 插件，为长文章网页生成章节目录，方便阅读和定位](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
+2. [30secondsofcode.org - 精心挑选的有用的 JavaScript 代码片段，你可以在 30 秒或更短的时间内理解。](https://www.30secondsofcode.org/js/p/1)
+
 ## 第五期
 
 > 2020 年 08 月 29 日
