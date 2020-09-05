@@ -19,7 +19,7 @@
 ### 工具
 
 1. [Smart TOC - Chrome 插件，为长文章网页生成章节目录，方便阅读和定位](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
-2. [30secondsofcode.org - 精心挑选的有用的 JavaScript 代码片段，你可以在 30 秒或更短的时间内理解。](https://www.30secondsofcode.org/js/p/1)
+2. [30secondsofcode.org - 精选有用的 JavaScript 代码片段，让你可以在 30 秒的时间内理解](https://www.30secondsofcode.org/js/p/1)
 
 ## 第五期
 
