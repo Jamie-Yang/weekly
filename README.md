@@ -2,6 +2,24 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第七期
+
+> 2020 年 09 月 12 日
+
+### 分享
+
+1. [饿了么 4 年 + 阿里 2 年：研发路上的一些总结与思考](https://mp.weixin.qq.com/s/0O3c3WUvW7nQdn7PprA5hg)
+2. [万字长文干货，面试官角度看面试 - 政采云前端团队](https://juejin.im/post/6844904199155613704)
+3. [「划线高亮」和「插入笔记」—— 不止是前端知识点](https://juejin.im/post/6870058781527506952)
+4. [蚂蚁金服如何把前端性能监控做到极致?](https://www.infoq.cn/article/Dxa8aM44oz*Lukk5Ufhy)
+5. [当飞猪遇上 Serverless](https://mp.weixin.qq.com/s/e86uMiwCaVTLScEOs7yH4Q)
+6. [如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要](https://juejin.im/post/6867335238905921543)
+7. [30secondsofcode.org - 精选有用的 JavaScript 代码片段，让你可以在 30 秒的时间内理解](https://www.30secondsofcode.org/js/p/1)
+
+### 工具
+
+1. [JSON Diff - Online JSON Compare Diff Finder](https://json-diff.com/)
+
 ## 第六期
 
 > 2020 年 09 月 05 日
