@@ -8,7 +8,7 @@
 
 #### 分享
 
-1. [AVIF has landed - A new image format derived from the keyframes of AV1 video.](https://jakearchibald.com/2020/avif-has-landed/)
+1. [AVIF has landed - A new image format derived from the keyframes of AV1 video](https://jakearchibald.com/2020/avif-has-landed/)
 2. [Cross-App Bundling — A Different Approach for Micro Frontends](https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a)
 3. [微前端在小米 CRM 系统的实践](https://xiaomi-info.github.io/2020/04/14/fe-microfrontends-practice/)
 4. [前端 DSL 实践指南（上）—— 内部 DSL](https://juejin.im/post/6844904068117168142)
