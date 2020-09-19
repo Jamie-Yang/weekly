@@ -17,8 +17,8 @@
 
 #### 工具
 
-1. [tinykeys - A tiny (~400 B) & modern library for keybindings](https://github.com/jamiebuilds/tinykeys)
-2. [Vue 3.0 — One Piece 发布](https://zhuanlan.zhihu.com/p/254219538)
+1. [Vue 3.0 — One Piece 发布](https://zhuanlan.zhihu.com/p/254219538)
+2. [tinykeys - A tiny (~400 B) & modern library for keybindings](https://github.com/jamiebuilds/tinykeys)
 
 ## 第七期
 
