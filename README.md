@@ -2,6 +2,24 @@
 
 收集前端领域的优质分享与新鲜工具
 
+## 第八期
+
+> 2020 年 09 月 20 日
+
+### 分享
+
+1. [AVIF has landed - A new image format derived from the keyframes of AV1 video.](https://jakearchibald.com/2020/avif-has-landed/)
+2. [Cross-App Bundling — A Different Approach for Micro Frontends](https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a)
+3. [微前端在小米 CRM 系统的实践](https://xiaomi-info.github.io/2020/04/14/fe-microfrontends-practice/)
+4. [前端 DSL 实践指南（上）—— 内部 DSL](https://juejin.im/post/6844904068117168142)
+5. [面试 100 多位软件工程师后的建议](https://mp.weixin.qq.com/s/_sWS1Y0fedJUNK3VX8AhxQ)
+6. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
+
+### 工具
+
+1. [tinykeys - A tiny (~400 B) & modern library for keybindings](https://github.com/jamiebuilds/tinykeys)
+2. [Vue 3.0 — One Piece 发布](https://zhuanlan.zhihu.com/p/254219538)
+
 ## 第七期
 
 > 2020 年 09 月 12 日
