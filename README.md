@@ -1,12 +1,30 @@
-# 「前端见闻」周刊
+# 「前端见闻」周刊 - 收集前端领域的优质分享与新鲜工具
 
-收集前端领域的优质分享与新鲜工具
+👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
+
+## 第八期
+
+> 2020 年 09 月 20 日
+
+#### 分享
+
+1. [AVIF has landed - A new image format derived from the keyframes of AV1 video.](https://jakearchibald.com/2020/avif-has-landed/)
+2. [Cross-App Bundling — A Different Approach for Micro Frontends](https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a)
+3. [微前端在小米 CRM 系统的实践](https://xiaomi-info.github.io/2020/04/14/fe-microfrontends-practice/)
+4. [前端 DSL 实践指南（上）—— 内部 DSL](https://juejin.im/post/6844904068117168142)
+5. [面试 100 多位软件工程师后的建议](https://mp.weixin.qq.com/s/_sWS1Y0fedJUNK3VX8AhxQ)
+6. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
+
+#### 工具
+
+1. [Vue 3.0 — One Piece 发布](https://zhuanlan.zhihu.com/p/254219538)
+2. [tinykeys - A tiny (~400 B) & modern library for keybindings](https://github.com/jamiebuilds/tinykeys)
 
 ## 第七期
 
 > 2020 年 09 月 12 日
 
-### 分享
+#### 分享
 
 1. [饿了么 4 年 + 阿里 2 年：研发路上的一些总结与思考](https://mp.weixin.qq.com/s/0O3c3WUvW7nQdn7PprA5hg)
 2. [万字长文干货，面试官角度看面试 - 政采云前端团队](https://juejin.im/post/6844904199155613704)
@@ -16,7 +34,7 @@
 6. [如何设计一个 JavaScript 插件系统，编程思维比死磕 API 更重要](https://juejin.im/post/6867335238905921543)
 7. [30secondsofcode.org - 精选有用的 JavaScript 代码片段，让你可以在 30 秒的时间内理解](https://www.30secondsofcode.org/js/p/1)
 
-### 工具
+#### 工具
 
 1. [JSON Diff - Online JSON Compare Diff Finder](https://json-diff.com/)
 
@@ -24,7 +42,7 @@
 
 > 2020 年 09 月 05 日
 
-### 分享
+#### 分享
 
 1. [移动开发平台 mPaas 文档：离线包简介 - 蚂蚁金服](https://tech.antfin.com/docs/2/59594)
 2. [Hybrid App 离线包方案实践](https://juejin.im/post/6844904031773523976)
@@ -34,7 +52,7 @@
 6. [Vuex、Flux、Redux、Redux-saga、Dva、MobX](https://juejin.im/post/6844903742672748558)
 7. [Minimal React: getting started with the frontend library](https://2ality.com/2020/08/minimal-react.html)
 
-### 工具
+#### 工具
 
 1. [Smart TOC - Chrome 插件，为长文章网页生成章节目录，方便阅读和定位](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
 
@@ -42,7 +60,7 @@
 
 > 2020 年 08 月 29 日
 
-### 分享
+#### 分享
 
 1. [TypeScript 4.0 正式发布！现在是开始使用它的最佳时机](https://mp.weixin.qq.com/s/hAGXH1MFjSFjqLpZyRHA3Q)
 2. [if 我是前端 Leader，怎么走出小微前端团队的围墙?](https://juejin.im/post/6844904001603895304)
@@ -51,7 +69,7 @@
 5. [前端工程化概述 - 阿里云云栖号](https://juejin.im/post/6844903588553048077)
 6. [一文搞懂动态规划](https://juejin.im/post/6844904113889624077)
 
-### 工具
+#### 工具
 
 1. [Code Spell Checker - VSC 代码英文变量名拼写检查插件](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 2. [Pure - Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
@@ -60,7 +78,7 @@
 
 > 2020 年 08 月 15 日
 
-### 分享
+#### 分享
 
 1. [React17 新特性：启发式更新算法](https://mp.weixin.qq.com/s/BEDwLJkEEI9bvD-1E5RRjQ)
 2. [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
@@ -70,7 +88,7 @@
 6. [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)
 7. [前端组件设计原则](https://juejin.im/post/6844903767108747278)
 
-### 工具
+#### 工具
 
 1. [AST Explorer - 支持多种语言的在线 AST 生成工具](https://astexplorer.net/)
 
@@ -78,7 +96,7 @@
 
 > 2020 年 08 月 08 日
 
-### 分享
+#### 分享
 
 1. [无线性能优化：Composite - 淘系前端团队](https://fed.taobao.org/blog/taofed/do71ct/performance-composite/)
 2. [浏览器层合成与页面渲染优化](https://juejin.im/post/6844903959425974280)
@@ -88,7 +106,7 @@
 6. [4 Ways You Can “Level Up” As A Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/skill_pathway/4-ways-you-can-level-up-as-a-developer-17ol)
 7. [解读新一代 Web 性能体验和质量指标](https://juejin.im/post/6844904168591736846)
 
-### 工具
+#### 工具
 
 1. [GoogleChrome/web-vitals-extension - Core Web Vitals 指标衡量插件](https://github.com/GoogleChrome/web-vitals-extension)
 2. [npmcharts - 图表对比 npm 包下载趋势](https://npmcharts.com/)
@@ -97,7 +115,7 @@
 
 > 2020 年 08 月 01 日
 
-### 分享
+#### 分享
 
 1. [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
 2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
@@ -106,7 +124,7 @@
 5. [10 个打开了我新世界大门的 WebAPI](https://juejin.im/post/6844904193258602504)
 6. [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
 
-### 工具
+#### 工具
 
 1. [Regulex - 正则表达式可视化工具](<https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24>)
 
@@ -114,7 +132,7 @@
 
 > 2020 年 07 月 25 日
 
-### 分享
+#### 分享
 
 1. [畅想 Serverless 新托管时代，2020 年迎来哪些新机会？- Alibaba F2E](https://mp.weixin.qq.com/s/2RcYlZYVLcwSfjf1f2_Jtg)
 2. [Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
@@ -124,7 +142,7 @@
 6. [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
 7. [如何推动基础架构项目落地 - 小爝](https://juejin.im/post/5e6447e1f265da575f4e7df1)
 
-### 工具
+#### 工具
 
 1. [ahooks - 阿里巴巴开源的 React Hooks 库](https://ahooks.js.org/zh-CN)
 2. [spark-md5 - 闪电般快速计算 MD5 的 JS 库，支持大文件分片增量计算](https://github.com/satazor/js-spark-md5)
