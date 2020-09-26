@@ -2,6 +2,25 @@
 
 👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第九期
+
+> 2020 年 09 月 26 日
+
+#### 分享
+
+1. [漫谈前端数据层](https://zhuanlan.zhihu.com/p/165213964)
+2. [SVG 图标看我就够了 - 阅文前端团队](https://mp.weixin.qq.com/s/1u_0jZC2IzqUTTf4hac2mg)
+3. [转转 Hybrid 体系建设 - 大转转 FE](https://mp.weixin.qq.com/s/-9-hnl2Raxzo-0RngqVMsQ)
+4. [How HTTPS works ...in a comic! 🌈 🎉 🍕](https://howhttps.works/)
+5. [I created the exact same app in React and Vue. 2020 edition](https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition)
+6. [或许这就是下一代组件库 - ant-design-vue](https://juejin.im/post/6873752140855279624)
+7. [React 17.0.0-rc.2 版本发布，引入全新的 JSX 转换](https://mp.weixin.qq.com/s/9WcV2sRRtlo8-OY_vnwJXA)
+
+#### 工具
+
+1. [@ant-design-vue/use - Vue 3 Composition Api Library](https://github.com/vueComponent/use)
+2. [Comparing JSX Transforms - React 17 新老 JSX 转换模式对比](https://new-jsx-transform.netlify.app/)
+
 ## 第八期
 
 > 2020 年 09 月 20 日
