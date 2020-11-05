@@ -2,6 +2,25 @@
 
 👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十期
+
+> 2020 年 11 月 06 日
+
+#### 分享
+
+1. [低代码，要怎么低？和低代码有关的 10 个问题](https://zhuanlan.zhihu.com/p/225987562)
+2. [今日头条品质优化 - 图文详情页秒开实践 - 字节跳动技术团队](https://juejin.im/post/6876011410061852680)
+3. [77.9K Star 的 Axios 项目有哪些值得借鉴的地方](https://juejin.im/post/6885471967714115597)
+4. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/CK8jcN4tVrOw_lx5MHSr6Q)
+5. [12 Fun Challenges to Learn React Native](https://hackernoon.com/12-fun-challenges-to-learn-react-native-1m4g3egq)
+6. [开源富文本编辑器技术的演进](https://zhuanlan.zhihu.com/p/268366406)
+7. [作为前端，我对业务的一点理解](https://juejin.im/post/6876977166051966984)
+
+#### 工具
+
+1. [vue-form-making - 基于 Vue 和 element-ui 实现的可视化表单设计器，实现方式简单明了](http://form.making.link/#/zh-CN/)
+2. [awesome-lowcode - 国内低代码平台整理](https://github.com/taowen/awesome-lowcode)
+
 ## 第九期
 
 > 2020 年 09 月 26 日
@@ -11,7 +30,7 @@
 1. [漫谈前端数据层](https://zhuanlan.zhihu.com/p/165213964)
 2. [SVG 图标看我就够了 - 阅文前端团队](https://mp.weixin.qq.com/s/1u_0jZC2IzqUTTf4hac2mg)
 3. [转转 Hybrid 体系建设 - 大转转 FE](https://mp.weixin.qq.com/s/-9-hnl2Raxzo-0RngqVMsQ)
-4. [How HTTPS works ...in a comic! 🌈 🎉 🍕](https://howhttps.works/)
+4. [How HTTPS works ...in a comic! 🌈 🎉 🍕](https://howhttps.works)
 5. [I created the exact same app in React and Vue. 2020 edition](https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition)
 6. [或许这就是下一代组件库 - ant-design-vue](https://juejin.im/post/6873752140855279624)
 7. [React 17.0.0-rc.2 版本发布，引入全新的 JSX 转换](https://mp.weixin.qq.com/s/9WcV2sRRtlo8-OY_vnwJXA)
@@ -19,7 +38,7 @@
 #### 工具
 
 1. [@ant-design-vue/use - Vue 3 Composition Api Library](https://github.com/vueComponent/use)
-2. [Comparing JSX Transforms - React 17 新老 JSX 转换模式对比](https://new-jsx-transform.netlify.app/)
+2. [Comparing JSX Transforms - React 17 新老 JSX 转换模式对比](https://new-jsx-transform.netlify.app)
 
 ## 第八期
 
@@ -27,9 +46,9 @@
 
 #### 分享
 
-1. [AVIF has landed - A new image format derived from the keyframes of AV1 video](https://jakearchibald.com/2020/avif-has-landed/)
+1. [AVIF has landed - A new image format derived from the keyframes of AV1 video](https://jakearchibald.com/2020/avif-has-landed)
 2. [Cross-App Bundling — A Different Approach for Micro Frontends](https://medium.com/swlh/cross-app-bundling-a-different-approach-for-micro-frontends-e4f212b6a9a)
-3. [微前端在小米 CRM 系统的实践](https://xiaomi-info.github.io/2020/04/14/fe-microfrontends-practice/)
+3. [微前端在小米 CRM 系统的实践](https://xiaomi-info.github.io/2020/04/14/fe-microfrontends-practice)
 4. [前端 DSL 实践指南（上）—— 内部 DSL](https://juejin.im/post/6844904068117168142)
 5. [面试 100 多位软件工程师后的建议](https://mp.weixin.qq.com/s/_sWS1Y0fedJUNK3VX8AhxQ)
 6. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
@@ -55,7 +74,7 @@
 
 #### 工具
 
-1. [JSON Diff - Online JSON Compare Diff Finder](https://json-diff.com/)
+1. [JSON Diff - Online JSON Compare Diff Finder](https://json-diff.com)
 
 ## 第六期
 
@@ -101,7 +120,7 @@
 
 1. [React17 新特性：启发式更新算法](https://mp.weixin.qq.com/s/BEDwLJkEEI9bvD-1E5RRjQ)
 2. [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
-3. [Tasks, microtasks, queues and schedules (可交互示例) - Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+3. [Tasks, microtasks, queues and schedules (可交互示例) - Jake Archibald](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
 4. [吊打 JavaScript 之从原型到原型链](https://mp.weixin.qq.com/s/QQySwGWhjD0Hd72_U0nrRg)
 5. [深入理解 ES Modules (手绘示例)](https://www.zcfy.cc/article/es-modules-a-cartoon-deep-dive-mozilla-hacks-the-web-developer-blog)
 6. [不容错过的 Babel7 知识](https://juejin.im/post/6844904008679686152)
@@ -109,7 +128,7 @@
 
 #### 工具
 
-1. [AST Explorer - 支持多种语言的在线 AST 生成工具](https://astexplorer.net/)
+1. [AST Explorer - 支持多种语言的在线 AST 生成工具](https://astexplorer.net)
 
 ## 第三期
 
@@ -117,7 +136,7 @@
 
 #### 分享
 
-1. [无线性能优化：Composite - 淘系前端团队](https://fed.taobao.org/blog/taofed/do71ct/performance-composite/)
+1. [无线性能优化：Composite - 淘系前端团队](https://fed.taobao.org/blog/taofed/do71ct/performance-composite)
 2. [浏览器层合成与页面渲染优化](https://juejin.im/post/6844903959425974280)
 3. [你不知道的浏览器页面渲染机制](https://juejin.im/post/6844903815758479374)
 4. [微前端的现状和趋势](https://segmentfault.com/a/1190000023365666)
@@ -128,7 +147,7 @@
 #### 工具
 
 1. [GoogleChrome/web-vitals-extension - Core Web Vitals 指标衡量插件](https://github.com/GoogleChrome/web-vitals-extension)
-2. [npmcharts - 图表对比 npm 包下载趋势](https://npmcharts.com/)
+2. [npmcharts - 图表对比 npm 包下载趋势](https://npmcharts.com)
 
 ## 第二期
 
@@ -136,7 +155,7 @@
 
 #### 分享
 
-1. [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
+1. [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org)
 2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
 3. [async/await 优雅的错误处理方法](https://juejin.im/post/6844903767129718791)
 4. [如何高效迅速的进行 CodeReview](https://www.jianshu.com/p/e9f9aef9a0e9)
