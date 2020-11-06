@@ -109,7 +109,7 @@
 
 #### 工具
 
-1. [Code Spell Checker - VSC 代码英文变量名拼写检查插件](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+1. [Code Spell Checker - 一个 VS Code 的扩展，帮助你做检查拼写](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 2. [Pure - Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
 
 ## 第四期
