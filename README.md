@@ -2,6 +2,25 @@
 
 👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十一期
+
+> 2020 年 11 月 14 日
+
+#### 分享
+
+1. [Web Vitals ：Google 如何定义性能指标及帮助开发者调优前端性能 ？](https://mp.weixin.qq.com/s/A0oUXLEoQGYj8wQasNxQPw)
+2. [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
+3. [图片加载失败后 CSS 样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
+4. [[译] 深入 React Hook 系统的原理](https://juejin.im/post/6844903807269208072)
+5. [想偷懒的话，toLocaleString 了解一下？](https://juejin.im/post/6844903587919691784)
+6. [Yarn 的 Plug'n'Play 特性](https://loveky.github.io/2019/02/11/yarn-pnp/)
+7. [setTimeout 实现原理和使用注意](https://mp.weixin.qq.com/s/7qTRSMqaqG8XZ9rpEBhYNQ)
+
+#### 工具
+
+1. [Flexbox Froggy - 一个用来学 CSS flexbox 的游戏](https://flexboxfroggy.com/#zh-cn)
+2. [Grid Garden - 一个用来学 CSS grid 的游戏](http://cssgridgarden.com/#zh-cn)
+
 ## 第十期
 
 > 2020 年 11 月 06 日
