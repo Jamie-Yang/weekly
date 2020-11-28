@@ -2,6 +2,24 @@
 
 👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十二期
+
+> 2020 年 11 月 28 日
+
+#### 分享
+
+1. [Vue 3.0 Ref-sugar 提案真的是自寻死路吗？](https://juejin.cn/post/6894175515515551752)
+2. [Web Worker 文献综述](https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ)
+3. [谈谈微前端领域的 js 沙箱实现机制](https://mp.weixin.qq.com/s/IJMgMO1IeYw2Io8MN7WZWQ)
+4. [双十一会场体验 SSR 优化 - 走向更复杂的渲染架构](https://mp.weixin.qq.com/s/2SNzhRnY9mU41uSWsdw7Zw)
+5. [import { reactive } from 'vue'（聊一聊 Vue 3 的响应式和组合式）](https://www.yuque.com/binfe/cquxg7/fr9eq3)
+6. [rrweb：打开 web 页面录制与回放的黑盒子](https://zhuanlan.zhihu.com/p/60639266)
+7. [十五分钟读懂 React 17](https://juejin.cn/post/6894204813970997256)
+
+#### 工具
+
+1. [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
+
 ## 第十一期
 
 > 2020 年 11 月 14 日
