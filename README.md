@@ -1,6 +1,6 @@
 # 「前端见闻」周刊 - 收集前端领域的优质分享与新鲜工具
 
-👏 快快点击右上角「watch」进行订阅，让你的技术栈保持活跃吧
+👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
 ## 第十二期
 
@@ -18,7 +18,7 @@
 
 #### 工具
 
-1. [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
+1. [ECMAScript 6 compatibility table - ES6 兼容性表](https://kangax.github.io/compat-table/es6/)
 
 ## 第十一期
 
@@ -26,7 +26,7 @@
 
 #### 分享
 
-1. [Web Vitals ：Google 如何定义性能指标及帮助开发者调优前端性能 ？](https://mp.weixin.qq.com/s/A0oUXLEoQGYj8wQasNxQPw)
+1. [Web Vitals: Google 如何定义性能指标及帮助开发者调优前端性能 ？](https://mp.weixin.qq.com/s/A0oUXLEoQGYj8wQasNxQPw)
 2. [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
 3. [图片加载失败后 CSS 样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)
 4. [[译] 深入 React Hook 系统的原理](https://juejin.im/post/6844903807269208072)
