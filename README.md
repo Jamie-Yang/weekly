@@ -20,6 +20,7 @@
 #### 工具
 
 1. [Moiva - 以图表形式比较 JS 库的在线工具，支持 NPM 下载量、Google 趋势、Github 统计](https://moiva.io/)
+2. [Screenity - Chrome 插件，功能强大且易用的屏幕录制和注释工具](https://github.com/alyssaxuu/screenity)
 
 ## 第十二期
 
