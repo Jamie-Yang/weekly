@@ -2,7 +2,6 @@
 
 👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
-
 ## 第十三期
 
 > 2020 年 12 月 19 日
@@ -10,8 +9,8 @@
 #### 分享
 
 1. [如何基于 TypeScript 实现控制反转](https://zhuanlan.zhihu.com/p/311184005)
-2. [基于Vue的前端架构，我做了这15点](https://juejin.cn/post/6901466994478940168)
-3. [Element3开发内幕 - Vue CLI插件开发](https://juejin.cn/post/6899334776860180494)
+2. [基于 Vue 的前端架构，我做了这 15 点](https://juejin.cn/post/6901466994478940168)
+3. [Element3 开发内幕 - Vue CLI 插件开发](https://juejin.cn/post/6899334776860180494)
 4. [对比多种微前端方案](https://mp.weixin.qq.com/s/I-doe7v4SavJlLhsLTTMBA)
 5. [漫谈 React Fiber](https://musicfe.dev/react-fiber-2/)
 6. [前端团队研发效能提升的探索与实践](https://www.yuque.com/lizhiyao/dxydance/kikle8)
