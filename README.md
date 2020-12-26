@@ -2,6 +2,19 @@
 
 👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十四期
+
+> 2020 年 12 月 26 日
+
+#### 分享
+
+1. [编译的速度与激情：从 10mins 到 1s](http://www.alloyteam.com/2020/12/14882/)
+2. [14W 行代码量的前端页面长什么样 - 腾讯文档](https://mp.weixin.qq.com/s/3J8kKArFGjjDFOr4aryNIg)
+3. [Introducing Zero-Bundle-Size React Server Components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+4. [React RFC Server Components](https://mp.weixin.qq.com/s/KGev5at-H1TcVytTfliheg)
+5. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
+6. [如何优雅地解决多个 React、Vue App 之间的状态共享](https://mp.weixin.qq.com/s/2nFDX4uvPGe9WCS1OETVxA)
+
 ## 第十三期
 
 > 2020 年 12 月 19 日
