@@ -2,6 +2,19 @@
 
 👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十五期
+
+> 2021 年 1 月 3 日
+
+#### 分享
+
+1. [2020 年大前端技术趋势解读](https://juejin.cn/post/6908713513271689224)
+2. [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
+3. [使用 MonoRepo 管理前端项目](https://mp.weixin.qq.com/s/GzwABWH8GXYVp9X1zhz9lA)
+4. [微前端在美团外卖的实践](https://tech.meituan.com/2020/02/27/meituan-waimai-micro-frontends-practice.html)
+5. [如何只使用 CSS 提升页面渲染速度](https://mp.weixin.qq.com/s/aPguK-dZr7JMA-s2OOFyjg)
+6. [滴滴 NodeX 生态](https://mp.weixin.qq.com/s/l5AwcMKCMz017HpEADvSIQ)
+
 ## 第十四期
 
 > 2020 年 12 月 26 日
