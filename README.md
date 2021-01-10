@@ -2,6 +2,20 @@
 
 👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十六期
+
+> 2021 年 1 月 10 日
+
+#### 分享
+
+1. [[Vue 官方教程笔记]- 尤雨溪手写 mini-vue](https://juejin.cn/post/6911897255087702030)
+2. [Centering in CSS](https://web.dev/centering-in-css/)
+3. [React Native 优先的多端统一化方案](https://www.infoq.cn/article/VpVHluUci1seBLkGCZjP)
+4. [“无代码”与我们的距离](https://mp.weixin.qq.com/s/Zhmh6mzCyxJlOvmuDMBSfw)
+5. [纯技巧向：React, Vue, Rxjs 和原生 JS 代码大乱斗](https://juejin.cn/post/6905952639100387335)
+6. [CSS 现状和如何学习](https://mp.weixin.qq.com/s/ztU1tESHy-5kF2iFpZbgfw)
+7. [框架带来了什么？](https://www.zhangxinxu.com/life/2020/12/about-frames/)
+
 ## 第十五期
 
 > 2021 年 1 月 3 日
