@@ -2,6 +2,19 @@
 
 👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
 
+## 第十八期
+
+> 2021 年 1 月 24 日
+
+#### 分享
+
+1. [ECMAScript 2021 新特征](https://jelly.jd.com/article/5febdfbb846cc00148ae36d7)
+2. [函数式编程指北](https://github.com/MostlyAdequate/mostly-adequate-guide)
+3. [登上 Github 趋势榜，iMove 原理技术大揭秘!](https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
+4. [「前端工程化」从 0-1 搭建 react，ts 脚手架（1.2w 字超详细教程）](https://juejin.cn/post/6919308174151385096)
+5. [前端资源加载失败优化](https://mp.weixin.qq.com/s/0JMLZYgNAiyrHmzPBu5rYw)
+6. [CDN 是什么？使用 CDN 有什么优势？](https://www.zhihu.com/question/36514327)
+
 ## 第十七期
 
 > 2021 年 1 月 17 日
@@ -9,7 +22,7 @@
 #### 分享
 
 1. [2020 前端技术发展回顾](https://mp.weixin.qq.com/s/2i7GljzuWqqljKUGX6LsMw)
-2. [2021 年前端趋势预测](https://mp.weixin.qq.com/s/OAKvV3HHkIEnzXdvuiCkuA)
+2. [2021 年前端趋势预测](https://mp.weixin.qq.com/s/NfZfJHJQ8GRtxidweHt8oA)
 3. [设计稿智能生成代码如何识别组件？ - Imgcook 3.0 系列](https://juejin.cn/post/6914842218471161870/)
 4. [前端智能化实践 — P2C 从需求文档生成代码 | D2 分享视频+文章](https://mp.weixin.qq.com/s/_A0LATzlYsMtJQfPBGcHhA)
 5. [前端安全生产在 ICBU 的探索与落地](https://wemp.app/posts/c72748d0-9198-4a55-a18a-d7546525336b)
