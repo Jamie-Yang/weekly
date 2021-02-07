@@ -1,6 +1,20 @@
 # 「前端见闻」周刊 - 收集前端领域的优质分享与新鲜工具
 
-👏 快快点击右上角「Watch」进行订阅，让你的技术栈保持活跃吧
+👏 快快点击右上角「Watch」关注每期更新，让你的技术栈保持活跃吧
+
+## 第十八期
+
+> 2021 年 2 月 7 日
+
+#### 分享
+
+1. [前端机器学习简史 - Alibaba F2E](https://mp.weixin.qq.com/s/5M6FLoCJT4P9VEcEbcY93A)
+2. [可视化拖拽组件库一些技术要点原理分析（二）](https://juejin.cn/post/6918881497264947207)
+3. [让你的 JS 代码变得更加优雅且可维护](https://mp.weixin.qq.com/s/kOSCo-kMvcSUCNh69iLDKg)
+4. [The Philosophy of Svelte](https://blog.scottlogic.com/2021/01/18/philosophy-of-svelte.html)
+5. [Don't use functions as callbacks unless they're designed for it](https://jakearchibald.com/2021/function-callback-risks/)
+6. [如何实现一个前端监控回放系统](https://mp.weixin.qq.com/s/NrHcR8MrBiHPc0Li2N-z9g)
+7. [一行 CSS 实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)
 
 ## 第十八期
 
