@@ -2,6 +2,21 @@
 
 👏 快快点击右上角「Watch」关注每期更新，让你的技术栈保持活跃吧
 
+## 第二十一期
+
+> 2021 年 3 月 20 日
+
+#### 分享
+
+1. [构建效率大幅提升，webpack5 在企鹅辅导的升级实践](https://mp.weixin.qq.com/s/P3foOrcu4StJDGdX9xavng)
+2. [中高级前端必须注意的 40 条移动端 H5 坑位指南 | 网易三年实践](https://juejin.cn/post/6921886428158754829)
+3. [解密 HTTP/2 与 HTTP/3 的新特性](https://cloud.tencent.com/developer/article/1523001)
+4. [探索微前端的场景极限](https://www.zhihu.com/column/p/355419817)
+5. [🧭【深入解析】跨端框架的核心技术到底是什么？](https://mp.weixin.qq.com/s/2XS-d1PUt8olXvHXZFvSfQ)
+6. [ECMAScript 2021: the final feature set](https://2ality.com/2020/09/ecmascript-2021.html)
+7. [JavaScript: What is the meaning of this?](https://web.dev/javascript-this/)
+8. [A horrifying globalThis polyfill in universal JavaScript](https://mathiasbynens.be/notes/globalthis)
+
 ## 第二十期
 
 > 2021 年 3 月 13 日
