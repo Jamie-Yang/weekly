@@ -2,6 +2,24 @@
 
 👏 快快点击右上角「Watch」关注每期更新，让你的技术栈保持活跃吧
 
+## 第二十二期
+
+> 2021 年 3 月 28 日
+
+#### 分享
+
+1. [页面可视化搭建工具技术要点 - AlloyTeam](http://www.alloyteam.com/2019/07/h5-build-tool-pipeline/)
+2. [逻辑编排在优酷可视化搭建中的实践之上](https://mp.weixin.qq.com/s/ZVZ1skvmIWIjcSz9HhDU3Q)
+3. [逻辑编排在优酷可视化搭建中的实践之下](https://mp.weixin.qq.com/s/EpOO3ZwxIE2Q7eqUQHBLqg)
+4. [用 Service Worker 实现前端性能优化](https://mp.weixin.qq.com/s/It8nhN-jvglxAGj7w6RwPw)
+5. [语雀思维图子图嵌套的技术思考](https://mp.weixin.qq.com/s/R9YnZnphESqc2yZ7-jGhew)
+6. [深入剖析 JavaScript 编译器/解释器引擎 QuickJS - 多了解些 JavaScript 语言](https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/)
+7. [2021 年前端开发者需要知道的 34 种 JS 优化技巧](https://mp.weixin.qq.com/s/26RFa_CTekfSInUyl_YedA)
+
+#### 工具
+
+1. [IconPark - 字节跳动出品的高质量开源图标库](https://iconpark.bytedance.com/official)
+
 ## 第二十一期
 
 > 2021 年 3 月 20 日
