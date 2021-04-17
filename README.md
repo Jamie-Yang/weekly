@@ -2,6 +2,20 @@
 
 👏 快快点击右上角「Watch」关注每期更新，让你的技术栈保持活跃吧
 
+## 第二十四期
+
+> 2021 年 4 月 17 日
+
+#### 分享
+
+1. [理解 ECMAScript 规范（1）- 字节前端 ByteFE](https://mp.weixin.qq.com/s/scA3PepT_JcNk0U4EXbHwA)
+2. [理解 ECMAScript 规范（2）- 字节前端 ByteFE](https://mp.weixin.qq.com/s/8lBSNZhXyUzZCehIBoNsCw)
+3. [我所理解的 Hooks API - Alibaba F2E](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
+4. [Vanilla JavaScript Code Snippets](https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/)
+5. [CSS 实现优惠券的技巧 - 阅文前端团队](https://juejin.cn/post/6945023989555134494)
+6. [2021 年，如果选型一个 Node.js 的 web server 框架，你会选择什么？](https://www.zhihu.com/question/446613186/answer/1819375500)
+7. [图文并茂讲清楚 JavaScript 内存管理](https://mp.weixin.qq.com/s/W2AxuO0OgoAUwROMyBwpYg)
+
 ## 第二十三期
 
 > 2021 年 4 月 3 日
