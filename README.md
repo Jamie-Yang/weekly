@@ -2,6 +2,25 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第二十六期
+
+> 2021 年 5 月 1 日
+
+#### 分享
+
+1. [不要随便把函数当回调来用！](https://mp.weixin.qq.com/s/UYOknPvtZlmH0_KO1DXk1w)
+2. [CONTENT-AWARE IMAGE RESIZING IN JAVASCRIPT](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+3. [CSS @property，让不可能变可能](https://juejin.cn/post/6951201528543707150)
+4. [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+5. [大型前端项目内存优化总结 - AlloyTeam](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
+6. [ESLint 在中大型团队的应用实践 - 美团技术团队](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
+7. [能让你纵享丝滑的 SSR 技术，转转这样实践](https://mp.weixin.qq.com/s/YBOtrgXKgyXO_pbLqT5s3w)
+
+#### 工具
+
+1. [BundlePhobia - 分析添加一个 npm 包会增加多少 bundle 体积](https://bundlephobia.com/)
+2. [Iconfont Preview - iconfont 在线预览工具](http://blog.luckly-mjw.cn/tool-show/iconfont-preview/index.html)
+
 ## 第二十五期
 
 > 2021 年 4 月 24 日
