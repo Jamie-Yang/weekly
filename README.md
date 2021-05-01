@@ -11,8 +11,8 @@
 1. [不要随便把函数当回调来用！](https://mp.weixin.qq.com/s/UYOknPvtZlmH0_KO1DXk1w)
 2. [CONTENT-AWARE IMAGE RESIZING IN JAVASCRIPT](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 3. [CSS @property，让不可能变可能](https://juejin.cn/post/6951201528543707150)
-4. [大型前端项目内存优化总结 - AlloyTeam](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
-5. [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+4. [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+5. [大型前端项目内存优化总结 - AlloyTeam](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
 6. [ESLint 在中大型团队的应用实践 - 美团技术团队](https://tech.meituan.com/2019/08/01/eslint-application-practice-in-medium-and-large-teams.html)
 7. [能让你纵享丝滑的 SSR 技术，转转这样实践](https://mp.weixin.qq.com/s/YBOtrgXKgyXO_pbLqT5s3w)
 
