@@ -2,6 +2,19 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第二十七期
+
+> 2021 年 5 月 9 日
+
+#### 分享
+
+1. [BFF 模式：微服务前端数据加载的最佳实践？](https://mp.weixin.qq.com/s/7xKf2fY-aAHjEOdIKULj2Q)
+2. [揭秘：如何考察前端的 Node.js 及工程能力](https://juejin.cn/post/6959477438757896205)
+3. [Node.js 为前端赋能 | 如何推动基础架构项目落地](https://mp.weixin.qq.com/s/dd8BZUHuPqgcF12Bdymd1w)
+4. [从 0 开始手把手带你搭建一套规范的 Vue3.x 项目工程环境](https://juejin.cn/post/6951649464637636622)
+5. [回顾 babel 6 和 7，来预测下 babel 8](https://juejin.cn/post/6956224866312060942)
+6. [CSS :placeholder-shown](https://www.samanthaming.com/tidbits/88-css-placeholder-shown/)
+
 ## 第二十六期
 
 > 2021 年 5 月 1 日
@@ -9,7 +22,7 @@
 #### 分享
 
 1. [不要随便把函数当回调来用！](https://mp.weixin.qq.com/s/UYOknPvtZlmH0_KO1DXk1w)
-2. [CONTENT-AWARE IMAGE RESIZING IN JAVASCRIPT](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+2. [Content-aware image resizing in JavaScript](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 3. [CSS @property，让不可能变可能](https://juejin.cn/post/6951201528543707150)
 4. [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 5. [大型前端项目内存优化总结 - AlloyTeam](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
