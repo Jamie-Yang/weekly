@@ -2,6 +2,19 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第二十八期
+
+> 2021 年 5 月 15 日
+
+#### 分享
+
+1. [手把手教你打造前端智能图标识别工具](https://mp.weixin.qq.com/s/ih2MMlkZDe3CInepiVrVUg)
+2. [理解 ECMAScript 规范（3）](https://mp.weixin.qq.com/s/1bNRE2t7UBY1UNikC7MC6g)
+3. [TypeScript 原来可以这么香？！](https://mp.weixin.qq.com/s/6Mmy4_d11P1iPFSgX7GOBw)
+4. [深入剖析虚拟内存工作原理 - 腾讯技术工程](https://mp.weixin.qq.com/s/c81Fvws0J2tHjcdTgxvv6g)
+5. [如何处理浏览器的断网情况？](https://juejin.cn/post/6953868764362309639)
+6. [Cross browser window state management](https://itnext.io/cross-browser-window-state-management-77bf837b6574)
+
 ## 第二十七期
 
 > 2021 年 5 月 9 日
