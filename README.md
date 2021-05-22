@@ -2,6 +2,20 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第二十九期
+
+> 2021 年 5 月 22 日
+
+#### 分享
+
+1. [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/)
+2. [浏览器性能优化实战](https://mp.weixin.qq.com/s/RCJftzmhQbc-b89pU5d32w)
+3. [一文带你了解如何排查内存泄漏导致的页面卡顿现象](https://juejin.cn/post/6947841638118998029)
+4. [90 行代码的 webpack，你确定不学吗？](https://mp.weixin.qq.com/s/vpQq3FcJuQkKXvxsq8c9Bw)
+5. [Chrome 开发者工具各种骚技巧](https://juejin.cn/post/6844903604839514125)
+6. [京喜 APP - 图片库优化](https://juejin.cn/post/6961403041585037325)
+7. [Tiny Wins, The big benefits of little changes.](https://joelcalifa.com/blog/tiny-wins/)
+
 ## 第二十八期
 
 > 2021 年 5 月 15 日
