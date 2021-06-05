@@ -2,7 +2,19 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
-## 第三十期期
+## 第三十一期
+
+> 2021 年 6 月 5 日
+
+#### 分享
+
+1. [2021 年你可能不知道的 CSS 特性](https://www.w3cplus.com/css/what-is-new-css-in-2021.html)
+2. [Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/) [[译](https://juejin.cn/post/6965042086467633166)]
+3. [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+4. [Helping Babel move to ES Modules](https://bigbinary.com/blog/helping-babel-move-to-esm)
+5. [云凤蝶低代码之路](https://mp.weixin.qq.com/s/uWLwjJ-fjDL2BR2i7aebVw)
+
+## 第三十期
 
 > 2021 年 5 月 29 日
 
