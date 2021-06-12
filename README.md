@@ -2,6 +2,23 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第三十二期
+
+> 2021 年 6 月 12 日
+
+#### 分享
+
+1. [塞尔达的 3D 渲染风格，能在小游戏跑起来？](https://mp.weixin.qq.com/s/K_nxqBNvALYtUACSBcrQ3Q)
+2. [5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
+3. [新时代创意布局不完全指南](https://segmentfault.com/a/1190000040072323)
+4. [H5 项目如何适配暗黑模式](https://mp.weixin.qq.com/s/WVqu_gmW9c5YLZPCGukWdg)
+5. [如何让 10 万条数据的小程序列表如丝般顺滑](https://juejin.cn/post/6966904317148299271)
+6. [问了尤雨溪 25 个问题后，我的很多想法开始变了](https://mp.weixin.qq.com/s/Dopiz0jgqJiSbhLOLzkQbA)
+
+#### 工具
+
+1. [Can I email - 电子邮件中可用 HTML、 CSS 的特性支持表](https://www.caniemail.com/)
+
 ## 第三十一期
 
 > 2021 年 6 月 5 日
