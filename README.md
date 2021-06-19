@@ -2,6 +2,21 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第三十三期
+
+> 2021 年 6 月 19 日
+
+#### 分享
+
+1. [淘宝承接页是如何实现秒开的](https://mp.weixin.qq.com/s/O6daxmeTuLE1b7d9nTQiCw)
+2. [TypeScript 新品尝鲜](https://mp.weixin.qq.com/s/C3dB9EajxhyWLB2UhHjSIQ)
+3. [SameSaite 那些事](https://mp.weixin.qq.com/s/QZkOXhQIg2LqDWpi7mzCdQ)
+4. [CSS 实现多行文本“展开收起”](https://juejin.cn/post/6963904955262435336)
+5. [我在工作中是如何使用 Git 的](https://mp.weixin.qq.com/s/uqEL6cqRWRXu2hH1ySNAIQ)
+6. [HTTP 中的 ETag 是如何生成的？](https://mp.weixin.qq.com/s/6IjEPv7GWrNxf3pdxam37g)
+7. [京东出品微前端框架 MicroApp 介绍与落地实践](https://mp.weixin.qq.com/s/6A6TqQpWgN1_KoxUMx3FFw)
+8. [玉伯：开源有带给我什么](https://mp.weixin.qq.com/s/Zo7uzFnSfVTJ4QfGwKAXOQ)
+
 ## 第三十二期
 
 > 2021 年 6 月 12 日
