@@ -2,6 +2,23 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第三十四期
+
+> 2021 年 6 月 26 日
+
+#### 分享
+
+1. [2021 年大前端技术趋势解读](https://www.infoq.cn/article/dT002EZ7BiXGtMeU49qo)
+2. [现代浏览器观察者 Observer API 指南](https://juejin.cn/post/6844903976937209863)
+3. [三种前端实现 VR 全景看房的方案！](https://juejin.cn/post/6973865268426571784)
+4. [数据上报方式是否存在最优解？](https://mp.weixin.qq.com/s/_3OSxMErTD2ZMNK7kf02LA)
+5. [一文吃透 Webpack 核心原理](https://xie.infoq.cn/article/ddca4caa394241447fa0aa3c0)
+6. [120 行代码帮你了解 Webpack 下的 HMR 机制](https://mp.weixin.qq.com/s/CPlgM2jxjnQ_mn1VyrWQlA)
+
+#### 工具
+
+1. [Handsfree.js - 面部、手势及动作识别追踪 JS 库](https://handsfree.js.org/)
+
 ## 第三十三期
 
 > 2021 年 6 月 19 日
@@ -10,7 +27,7 @@
 
 1. [淘宝承接页是如何实现秒开的](https://mp.weixin.qq.com/s/O6daxmeTuLE1b7d9nTQiCw)
 2. [TypeScript 新品尝鲜](https://mp.weixin.qq.com/s/C3dB9EajxhyWLB2UhHjSIQ)
-3. [SameSaite 那些事](https://mp.weixin.qq.com/s/QZkOXhQIg2LqDWpi7mzCdQ)
+3. [SameSite 那些事](https://mp.weixin.qq.com/s/QZkOXhQIg2LqDWpi7mzCdQ)
 4. [CSS 实现多行文本“展开收起”](https://juejin.cn/post/6963904955262435336)
 5. [我在工作中是如何使用 Git 的](https://mp.weixin.qq.com/s/uqEL6cqRWRXu2hH1ySNAIQ)
 6. [HTTP 中的 ETag 是如何生成的？](https://mp.weixin.qq.com/s/6IjEPv7GWrNxf3pdxam37g)
