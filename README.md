@@ -2,6 +2,18 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第三十六期
+
+> 2021 年 7 月 10 日
+
+#### 分享
+
+1. [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247484407&idx=1&sn=c3706cdacefe4fd0ee372804ce53b4ce)
+2. [JavaScript 变量命名](https://mp.weixin.qq.com/s/I4gFKpyzvVqQIyS9Mh0BJg)
+3. [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/_uCquHuFaAk8W2bVjaC7Sg)
+4. [如何优雅的判断元素是否进入当前视区](https://mp.weixin.qq.com/s?__biz=MzkwODIwMDY2OQ==&mid=2247488048&idx=2&sn=4c1bf438accbd75b2c3ff739b585fad0&source=41#wechat_redirect)
+5. [Google 的新前端框架 Lit](https://juejin.cn/post/6976557762377416718)
+
 ## 第三十五期
 
 > 2021 年 7 月 4 日
