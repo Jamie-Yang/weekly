@@ -2,6 +2,19 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第三十八期
+
+> 2021 年 7 月 31 日
+
+#### 分享
+
+1. [你可能并不需要微前端](https://mp.weixin.qq.com/s/khrziHjDfgGS4GgHa6qQJg)
+2. [浏览器缓存](https://www.yuque.com/docs/share/eab142fc-a0e0-432f-921a-eb0f8705dec4)
+3. [这三年沉淀的前端错误监控系统，一篇文章讲透给你](https://mp.weixin.qq.com/s/NY72_cRGAPsex78YwVF_hg)
+4. [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html)
+5. [精读《12 个评估 JS 库你需要关心的事》](https://segmentfault.com/a/1190000016504733)
+6. [前端安全系列（二）：如何防止 CSRF 攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+
 ## 第三十七期
 
 > 2021 年 7 月 18 日
