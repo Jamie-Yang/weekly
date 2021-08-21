@@ -10,16 +10,16 @@
 
 1. [如何设计实现 H5 营销页面搭建系统](https://mp.weixin.qq.com/s/eWzqXz52wqVBk3qresfRvQ)
 2. [超级变变变，动态云组件加载实践](https://mp.weixin.qq.com/s/P5AAZZEmyTdo_-tYC1XpMg)
-3. [企业级应用搭建平台是如何设计资产体系的？](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
-4. [腾讯企鹅辅导 H5 性能极致优化](https://mp.weixin.qq.com/s/zJMM4SF7pc6LZPCsQfWOxw)
-5. [开发效率提升 50% 以上，爱奇艺官网主站的 Nuxt 实践](https://www.infoq.cn/article/CMgcL5Py9CXhq7gBPvTb)
+3. [企业级应用搭建平台是如何设计资产体系的？- Alibaba F2E](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
+4. [腾讯企鹅辅导 H5 性能极致优化 - 腾讯 IMWeb 前端团队](https://mp.weixin.qq.com/s/zJMM4SF7pc6LZPCsQfWOxw)
+5. [开发效率提升 50% 以上，爱奇艺官网主站的 Nuxt 实践 - 爱奇艺技术产品团队](https://www.infoq.cn/article/CMgcL5Py9CXhq7gBPvTb)
 6. [前端组件化实战之 Button](https://juejin.cn/post/6990511054224621598)
 7. [从过去到现在，聊聊 Tree-shaking](https://mp.weixin.qq.com/s/TNXO2ifPymaTxIqzBAmkSQ)
 8. [基础很好？总结了 38 个 ES6-ES12 的开发技巧，倒要看看你能拿几分？🐶](https://juejin.cn/post/6995334897065787422)
 
 #### 工具
 
-1. [HTML 5 TEST - 检测浏览器对 HTML5 支持度](http://html5test.com/)
+1. [HTML 5 TEST - 检测浏览器对 HTML5 支持情况](http://html5test.com/)
 2. [Are Third-Party Cookies enabled? - 检测浏览器启用第三方 cookie](https://www.whatismybrowser.com/detect/are-third-party-cookies-enabled)
 3. [Do Not Track Detection - 检测浏览器启用禁止追踪](https://browserleaks.com/donottrack)
 
