@@ -2,6 +2,17 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十一期
+
+> 2021 年 9 月 4 日
+
+#### 分享
+
+1. [学习 Webpack5 之路（优化篇）](https://mp.weixin.qq.com/s/pwynolH0pTtT38f-xBUsXw)
+2. [深入解析基于 Flutter 的 Web 渲染引擎「北海 Kraken 」技术原理](https://mp.weixin.qq.com/s/EI7loHgtQLG-cqRQVM6mZQ)
+3. [ESModule 系列 ：构建下一代基础设施 PDN](https://mp.weixin.qq.com/s/KmlyjxTphGBMu69cVGbKlg)
+4. [Nginx 与前端开发](https://juejin.cn/post/6844903684967825421)
+
 ## 第四十期
 
 > 2021 年 8 月 28 日
