@@ -2,6 +2,26 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十二期
+
+> 2021 年 10 月 30 日
+
+#### 分享
+
+1. [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq/)
+2. [A Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+3. [Safe DOM manipulation with the Sanitizer API](https://web.dev/sanitizer/)
+4. [应用性能前端监控，字节跳动这些年经验都在这了 - ByteDance Web Infra](https://mp.weixin.qq.com/s/18jSRceR8ahW0SPn74-F0w)
+5. [从场景倒推我们要什么样的微前端体系 - 字节前端](https://zhuanlan.zhihu.com/p/386763435)
+6. [Webpack 性能系列一: 使用 Cache 提升构建性能](https://mp.weixin.qq.com/s/mpF6W-4dElu0UPed03oJQw)
+7. [Webpack 性能系列二：多进程打包](https://mp.weixin.qq.com/s/Jh37R0ooECzK2VDTTorgzA)
+8. [React 运行时优化方案的演进](https://juejin.cn/post/7010539227284766751)
+
+#### 工具
+
+1. [会触发 Layout, Paint, Composite 的 CSS 属性速查表](https://csstriggers.com)
+2. [快速验证 Nginx 配置的在线演示工具](https://nginx-playground.wizardzines.com)
+
 ## 第四十一期
 
 > 2021 年 9 月 4 日
