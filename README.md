@@ -2,6 +2,18 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十三期
+
+> 2021 年 11 月 7 日
+
+#### 分享
+
+1. [Nest.js 实践总结](https://mp.weixin.qq.com/s/7nfdzLhWY6kxn_IEA_5o-A)
+2. [A Deep Dive Into object-fit And background-size In CSS](https://www.smashingmagazine.com/2021/10/object-fit-background-size-css/)
+3. [CSS 实现文本"不定行数"截断](https://juejin.cn/post/7022876094608982030)
+4. [JS 项目中究竟应该使用 Object 还是 Map？](https://zhuanlan.zhihu.com/p/358378689)
+5. [再看 Babel - 云谦](https://mp.weixin.qq.com/s/QCzXQ5QfX5rhX3GTheYycw)
+
 ## 第四十二期
 
 > 2021 年 10 月 30 日
