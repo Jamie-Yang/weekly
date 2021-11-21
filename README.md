@@ -2,6 +2,20 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十四期
+
+> 2021 年 11 月 21 日
+
+#### 分享
+
+1. [Retry, Timeout and Cancel with fetch()](https://www.chrisarmstrong.dev/posts/retry-timeout-and-cancel-with-fetch/)
+2. [现代 Web 开发困局](https://mp.weixin.qq.com/s/PjpA4CBoC3Q0-gT5f5qlPg)
+3. [大漠：我认识的 W3C 规范](https://mp.weixin.qq.com/s/Kq0inC2lrjrvAaP-0ltQoQ)
+4. [浅析 Web 录屏技术方案与实现](https://mp.weixin.qq.com/s/f55pB-MEO6VboFsihb-_gQ)
+5. [Record, replay and measure user flows](https://developer.chrome.com/docs/devtools/recorder/)
+6. [写在 2021 的前端性能优化指南](https://mp.weixin.qq.com/s/CO8Gkxm0dfLXhebIrosHYw)
+7. [元宇宙下的前端现状](https://juejin.cn/post/7001419484376350727)
+
 ## 第四十三期
 
 > 2021 年 11 月 7 日
