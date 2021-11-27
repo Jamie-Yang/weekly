@@ -2,6 +2,18 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十五期
+
+> 2021 年 11 月 28 日
+
+#### 分享
+
+1. [How to React](https://kentcdodds.com/blog/how-to-react)
+2. [Common React Hooks Mistakes You Should Avoid](https://blog.bitsrc.io/common-react-hooks-mistakes-every-developer-should-avoid-defd47d09d8c)
+3. [Next.js 12 发布！迄今以来最大更新！](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247490922&idx=1&sn=3b43c3a98e035e0e0482456083f1eb81)
+4. [How to Use Next.js Middleware](https://www.ctnicholas.dev/articles/how-to-use-nextjs-middleware)
+5. [利用 javascript 获取并修改伪元素的值](https://segmentfault.com/a/1190000003711146)
+
 ## 第四十四期
 
 > 2021 年 11 月 21 日
