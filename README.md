@@ -2,6 +2,21 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第四十七期
+
+> 2022 年 06 月 19 日
+
+#### 分享
+
+1. [JavaScript 框架发展的四个时代，以后的发展方向是什么？](https://mp.weixin.qq.com/s?__biz=MzkxMjI3MTA1Mg==&mid=2247518702&idx=1&sn=6c1bacc37dacc9a84cf5b139dd060541)
+2. [浅谈逻辑选择器 is、where、not、has](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247491434&idx=1&sn=78d272144df2c8da29b8718f43c7ff73)
+3. [深入浅出前端做控制反转与依赖注入](https://www.yuque.com/surfacew/fe/qg0uev)
+4. [为什么 2022 年 ESM 又被发布了一次 ？](https://mp.weixin.qq.com/s/_RmAH6p2lyzkhqLWw8cIKw)
+5. [JavaScript 中的继承和组合](https://mp.weixin.qq.com/s/mJCoubKJne2uLCDcZoseMw)
+6. [React state management libraries in 2022](https://www.albertgao.xyz/2022/02/19/react-state-management-libraries-2022/)
+7. [First-party cookie recipes](https://web.dev/first-party-cookie-recipes/)
+8. [8 种技巧让你编写更简洁的 JavaScript 代码](https://mp.weixin.qq.com/s/nEBp9YYUYFLP8O3xJfbm9A)
+
 ## 第四十六期
 
 > 2021 年 12 月 11 日
