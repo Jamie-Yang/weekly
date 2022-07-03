@@ -2,7 +2,21 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
-## 第四十七期
+## 第四十九期
+
+> 2022 年 07 月 03 日
+
+#### 分享
+
+1. [介绍与换行相关的 CSS 属性](https://mp.weixin.qq.com/s/D4dn4ot55f7ISzHxwu2H5Q)
+2. [理解了状态管理，就理解了前端开发的核心 ​](https://mp.weixin.qq.com/s/xbCXiVMaqVTKCQhSdaZbsQ)
+3. [ESM Bundleless 在蚂蚁集团低代码场景的实践](https://mp.weixin.qq.com/s/NfuJU7xPkrl9Nc6rP3hyeA)
+4. [【温故而知新】你可能不知道的 Proxy](https://mp.weixin.qq.com/s/LFpHyiMHwsZ2aVKWqdM2hg)
+5. [HTTP 史记 - 从 HTTP/1 到 HTTP/3](https://mp.weixin.qq.com/s/B7K00-wTUSmy87caDHRWFA)
+6. [1.4w 字总结带你重学 TypeScript](https://juejin.cn/post/7096695346239111199)
+7. [The Complete Modern React Developer 2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)
+
+## 第四十八期
 
 > 2022 年 06 月 26 日
 
