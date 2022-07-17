@@ -2,6 +2,18 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十期
+
+> 2022 年 07 月 17 日
+
+#### 分享
+
+1. [淘宝店铺 TypeScript 研发规约落地实践](https://mp.weixin.qq.com/s/a3OKOep9W7Cu81j7bKp3RQ)
+2. [基于 Serverless 的大前端轻研发平台](https://mp.weixin.qq.com/s/oEiLOTa6nvqMnrtPhOhyCw)
+3. [如何移除你项目中 99%的 JS 代码](https://mp.weixin.qq.com/s/UG3T9mpzGA-Co1TBywNCNw)
+4. [JS 实现将文本或 JSON 内容下载到文件中](https://mp.weixin.qq.com/s/RMjIe5ISPq3AOv9aNT_-2Q)
+5. [关于前端大管家 package.json，你知道多少？](https://mp.weixin.qq.com/s/Np-tDI84_VTJPHAIAl8aGQ)
+
 ## 第四十九期
 
 > 2022 年 07 月 03 日
