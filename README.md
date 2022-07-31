@@ -2,6 +2,19 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十二期
+
+> 2022 年 07 月 31 日
+
+#### 分享
+
+1. [可能改变前端工程化未来的特性：ESM Loader Hooks](https://mp.weixin.qq.com/s/FEHGKRMwoGsoEe_6aQlIcA)
+2. [浅谈 NPM 依赖治理](https://mp.weixin.qq.com/s/ibmDnso_rPQlu_2MEuLLhQ)
+3. [Vite 也可以模块联邦](https://mp.weixin.qq.com/s?__biz=Mzg4MTcyNDY4OQ==&mid=2247487754&idx=1&sn=4bacb3b7cc2741633a21fe83fb6e4ba6)
+4. [从 JavaScript 到 TypeScript：上手试试才知道答案](https://mp.weixin.qq.com/s/t93Ps3scLYdmSMFPeeczmA)
+5. [不需要 JS！仅用 CSS 也能达到监听页面滚动的效果！](https://mp.weixin.qq.com/s/aDJp-Vk2wsYRRFu7O8hkFg)
+6. [前端研发的新基础设施 - Rust 🦀️](https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg)
+
 ## 第五十一期
 
 > 2022 年 07 月 24 日
