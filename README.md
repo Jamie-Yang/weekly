@@ -2,6 +2,20 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十四期
+
+> 2022 年 08 月 14 日
+
+#### 分享
+
+1. [The 10 Most Common JavaScript Issues Developers Face](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
+2. [前端富文本基础及实现](https://mp.weixin.qq.com/s/qmzDSwY9mt8ts6LjlYZe0Q)
+3. [How to prevent nvm from slowing down your shell](https://dev.to/mazharzandsalimi/how-to-prevent-nvm-from-slowing-down-your-shell-5ba)
+4. [2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ)
+5. [案例+图解带你一文读懂 Canvas🔥🔥（2W+字）](https://juejin.cn/post/7119495608938790942)
+6. [如何写出不可维护的 Vue 代码](https://mp.weixin.qq.com/s/sYRwuFLvMe8us6SpOBkHWw)
+7. [一文带你打通前端沙箱的"任督二脉"](https://juejin.cn/post/7124969690958397471)
+
 ## 第五十三期
 
 > 2022 年 08 月 07 日
