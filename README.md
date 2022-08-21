@@ -2,6 +2,18 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十五期
+
+> 2022 年 08 月 21 日
+
+#### 分享
+
+1. [【TypeScript】never 和 unknown 的优雅之道](https://mp.weixin.qq.com/s/rZ96wy8xUrx4T1qG5OKS0w)
+2. [代码圈复杂度治理小结](https://mp.weixin.qq.com/s/6rHnwncSwcGCfqTnRAgQWw)
+3. [🤔 一文搞懂前端兼容问题](https://mp.weixin.qq.com/s/G2Zzt_r4NI2aQoo2qRN5WQ)
+4. [ESLint's new config system, Part 1: Background](https://eslint.org/blog/2022/08/new-config-system-part-1/)
+5. [CSS border animations](https://web.dev/css-border-animations/)
+
 ## 第五十四期
 
 > 2022 年 08 月 14 日
