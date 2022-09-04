@@ -2,6 +2,20 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十六期
+
+> 2022 年 09 月 04 日
+
+#### 分享
+
+1. [The minimum TypeScript you need for React](https://ente.io/blog/tech/typescript-for-react/)
+2. [Why Async/Await Is More Than Just Syntactic Sugar](https://www.zhenghao.io/posts/await-vs-promise)
+3. [如何根治 Script Error？- 大淘宝前端技术](https://mp.weixin.qq.com/s/lnvd8ii58jyR3u-aDvq_9A)
+4. [如何正确地配置入口文件？](https://mp.weixin.qq.com/s/DXPwn7zOrUo1Y9JO1sapBw)
+5. [如何不基于构建工具优雅的实现模块导入？](https://mp.weixin.qq.com/s/C9tA0peV6nGUsPmOD8z3AA)
+6. [Vite 约定式路由的最佳实践](https://mp.weixin.qq.com/s/IGaUcYDIb4e3zGGi9jvdig)
+7. [10 分钟彻底掌握 CSS Flex 布局](https://mp.weixin.qq.com/s/FB_sVjU-KdUMiM7S5__2Eg)
+
 ## 第五十五期
 
 > 2022 年 08 月 21 日
