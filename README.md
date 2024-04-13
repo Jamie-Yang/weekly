@@ -2,6 +2,24 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十八期
+
+<!-- > 2024 年 04 月 14 日 -->
+
+#### 分享
+
+1. [moduleResolution 总结](https://yutengjing.com/posts/moduleresolution%E6%80%BB%E7%BB%93/)
+2. [JS 程序设计的常用套路 - 阿里云开发者](https://mp.weixin.qq.com/s/sl8CcJgJCY_xksmBVE4NhA)
+3. [You Probably Don't Need eslint-config-prettier or eslint-plugin-prettier](https://www.joshuakgoldberg.com/blog/you-probably-dont-need-eslint-config-prettier-or-eslint-plugin-prettier/)
+4. [What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
+5. [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide)
+6. [解决前端常见问题：竞态条件](https://mp.weixin.qq.com/s/c-vDWMV0XHnbpmR6tvzL8A)
+
+#### 工具
+
+1. [JavaScript Visualizer 9000 - 事件循环机制的可视化分析工具](https://www.jsv9000.app/)
+2. [Web Check - 强大的挖掘网站/主机信息的一站式在线工具](https://web-check.xyz/)
+
 ## 第五十七期
 
 <!-- > 2023 年 06 月 25 日 -->
