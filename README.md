@@ -2,6 +2,23 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第五十九期
+
+<!-- > 2024 年 04 月 21 日 -->
+
+#### 分享
+
+1. [Frontend Development Beyond React: Svelte (1/3)](https://itnext.io/frontend-development-beyond-react-svelte-1-3-f47eda22cba5)
+2. [探探各个微前端框架 - 奇舞精选](https://juejin.cn/post/7356078518096576512)
+3. [告别轮询，SSE 流式传输可太香了！](https://juejin.cn/post/7355666189475954725)
+4. [An Interactive Guide to CSS Container Queries - Ahmad Shadeed](https://ishadeed.com/article/css-container-query-guide/)
+5. [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
+
+#### 工具
+
+1. [Bruno - 一款快速流畅且与 Git 兼容的 API 调试客户端，对标 Postman](https://www.usebruno.com/)
+1. [On My Git! - 一个用于学习 Git 的开源游戏](https://ohmygit.org/)
+
 ## 第五十八期
 
 <!-- > 2024 年 04 月 14 日 -->
