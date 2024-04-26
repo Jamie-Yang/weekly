@@ -9,10 +9,8 @@
 #### 分享
 
 1. [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
-2. []()
-3. []()
-4. []()
-5. []()
+2. [View transitions: Handling aspect ratio changes](https://jakearchibald.com/2024/view-transitions-handling-aspect-ratio-changes/)
+3. [Top 10 pens of 2023 on CodePen](https://codepen.io/2023/popular/pens/10)
 
 ## 第五十九期
 
