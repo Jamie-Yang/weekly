@@ -2,6 +2,16 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第六十一期
+
+> 2024 年 05 月 11 日
+
+#### 分享
+
+1. []()
+2. [Why you shouldn't use Enums!](https://www.wordman.dev/blog/typescript-enums)
+3. [Do You Still Need Sass?](https://www.lullabot.com/articles/do-you-still-need-sass-2024)
+
 ## 第六十期
 
 > 2024 年 04 月 27 日
