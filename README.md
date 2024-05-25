@@ -2,6 +2,17 @@
 
 每周六发布更新，快快点击右上角「Watch」进行关注，让你的技术栈保持活跃吧。👏 👏
 
+## 第六十二期
+
+> 2024 年 05 月 25 日
+
+#### 分享
+
+1. [State of HTML 2023（中文）](https://2023.stateofhtml.com/zh-Hans/)
+2. [How to document your JavaScript package](https://deno.com/blog/document-javascript-package)
+3. [5 分钟带你了解【前端装饰器】，“高大上”的“基础知识”](https://mp.weixin.qq.com/s/Q5jP99VOXDKhP8u-Oi4vOg)
+4. [Default exports in CommonJS libraries](https://blog.andrewbran.ch/default-exports-in-commonjs-libraries/)
+
 ## 第六十一期
 
 > 2024 年 05 月 18 日
